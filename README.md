@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Software Engineering Student | 🎨 Back-End Developer</p>
+<p align="left">💻 Software Engineering Student |  Back-End Developer</p>
 
 ###
 
