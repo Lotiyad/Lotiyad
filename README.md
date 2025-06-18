@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">💻 Software Engineering Student | 🎨 Front-End Developer</p>
+<p align="left">💻 Software Engineering Student | 🎨 Back-End Developer</p>
 
 ###
 
-<h2 align="left">I'm passionate about building dynamic web applications and scalable software solutions. My expertise lies in front-end development, but I also explore backend technologies and distributed systems.</h2>
+<h2 align="left">I'm passionate about building dynamic web applications and scalable software solutions. My expertise lies in back-end development, but I also explore front-end technologies and distributed systems.</h2>
 
 ###
 
-<p align="left">🔹 Tech Stack:<br><br>Front-End: HTML, CSS, JavaScript, React<br><br>Back-End: Spring Boot, MySQL, Go<br><br>Other: Maven, RabbitMQ, gRPC, Networking (Cisco Certified)</p>
+<p align="left">🔹 Tech Stack:<br><br>Front-End: HTML, CSS, JavaScript, React<br><br>Back-End: Spring Boot, Node.js ,MySQL, Go<br><br>Other: Maven, RabbitMQ, gRPC, Networking (Cisco Certified)</p>
 
 ###
 
